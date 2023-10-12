@@ -1,1 +1,1 @@
-# ENSE405-Initiative-Insights
+# Welcome to the Initiative Insights: SDG Navigator repository 
