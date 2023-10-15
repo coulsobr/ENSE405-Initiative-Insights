@@ -1,4 +1,4 @@
-# Welcome to the _Initiative Insights: SDG Navigator_ repository 
+# Welcome to the _Initiative Insights: SDG Navigator_ Repository 
 
 
 ## Student Name
